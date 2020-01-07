@@ -1,3 +1,3 @@
 # Reverse-a-String
-A simple program that takes an inputted string and outputs it reversed.
+A simple program that takes a string as an input and outputs it reversed.
 Made in C++
